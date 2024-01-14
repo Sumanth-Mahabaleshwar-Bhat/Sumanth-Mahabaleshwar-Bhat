@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sumanth Mahabaleshwar Bhat</h1>
 <h3 align="center">Recent graduate of McMaster University with a Master of Engineering in Electrical & Computer Engineering with expertise in Full Stack Software Web Development, Mobile Development, and Automation Testing. Actively looking for Full time position in Software Development</h3>
 
-- 🔭 I’m currently working on **Developing Full Stack Web application**
-- 👯 I’m looking to collaborate on **Full Stack Web or Mobile applications**
+- 🔭 I’m currently working on **Developing Full Stack Web and Mobile application**
+- 👯 I’m looking to collaborate on **Full Stack Web or Mobile application projects**
 
 - 📫 How to reach me **sumanthmbhat123@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/Sumanth-Mahabaleshwar-Bhat?tab=repositories**
